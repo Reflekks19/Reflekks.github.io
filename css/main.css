@@ -3,6 +3,10 @@
  *  License (MIT License)
  */
 
+.intro {
+	background: src="head-bg.jpg";
+}
+
 body { margin-bottom: 50px }
 a { font-family: "Open Sans", sans-serif }
 .container {

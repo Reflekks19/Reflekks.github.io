@@ -76,7 +76,7 @@ p.p-intro {
 	Content: url("../head-bg.jpg");
 }
 p.p-intro:after {
-    content: '';
+    content: url("../head-bg.jpg");
     position: absolute;
     border-style: solid;
     border-width: 9px 9px 9px 0;
@@ -86,10 +86,9 @@ p.p-intro:after {
     z-index: 1;
     left: -9px;
     top: 12px;
-    Content: url("../head-bg.jpg");
 }
 p.p-intro:before {
-    content: '';
+    content: url("../head-bg.jpg");
     position: absolute;
     border-style: solid;
     border-width: 11px 10px 11px 0;
@@ -99,6 +98,7 @@ p.p-intro:before {
     z-index: 1;
     left: -10px;
     top: 10px;
+	
 }
 img.img-intro {
     border-radius: 100px;

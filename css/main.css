@@ -74,10 +74,8 @@ p.p-intro {
 	-webkit-animation: smooth-entry-btn 1s;
 	-moz-animation: smooth-entry-btn 1s;
 	animation: smooth-entry-btn 1s;
-	Content: url("../head-bg.jpg");
 }
 p.p-intro:after {
-    content: url("../head-bg.jpg");
     position: absolute;
     border-style: solid;
     border-width: 9px 9px 9px 0;
@@ -89,7 +87,6 @@ p.p-intro:after {
     top: 12px;
 }
 p.p-intro:before {
-    content: url("../head-bg.jpg");
     position: absolute;
     border-style: solid;
     border-width: 11px 10px 11px 0;

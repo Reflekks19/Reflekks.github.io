@@ -45,7 +45,7 @@ a { font-family: "Open Sans", sans-serif }
     font-weight: 500;
     color: #A4A4A4;
 }
-.intro {
+div.intro {
     width: 100%;
     height: 272px;
     padding-top: 117px;

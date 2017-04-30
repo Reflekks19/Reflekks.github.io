@@ -74,6 +74,7 @@ p.p-intro {
 	-webkit-animation: smooth-entry-btn 1s;
 	-moz-animation: smooth-entry-btn 1s;
 	animation: smooth-entry-btn 1s;
+	Content: url("../head-bg.jpg");
 }
 p.p-intro:after {
     content: '';
@@ -86,6 +87,7 @@ p.p-intro:after {
     z-index: 1;
     left: -9px;
     top: 12px;
+    Content: url("../head-bg.jpg");
 }
 p.p-intro:before {
     content: '';

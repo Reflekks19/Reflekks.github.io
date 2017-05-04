@@ -46,10 +46,10 @@ a { font-family: "Open Sans", sans-serif }
     color: #A4A4A4;
 }
 div.intro {
-    min-width: 150%;
+    width: 100%;
     height: 272px;
     padding-top: 117px;
-    background: url(../head-bg.jpg) center top;
+    background: url(../head-bg.jpg) center top cover;
 }
 p.p-intro {
     color: #E85F37;

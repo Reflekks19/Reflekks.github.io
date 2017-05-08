@@ -204,8 +204,8 @@ footer .btn {
 }
 footer .social li {
     display: inline;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 footer .social li a { color: #a5a5a5 }
 footer .social li a:hover {

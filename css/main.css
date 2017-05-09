@@ -203,7 +203,7 @@ footer .btn {
     letter-spacing: 2px;
 }
 footer .social li {
-margin: 0 auto;
+	text-align: center;
 }
 footer .social li a { color: #a5a5a5 }
 footer .social li a:hover {

@@ -202,9 +202,6 @@ footer .btn {
     font-weight: 700;
     letter-spacing: 2px;
 }
-footer .social li {
-	text-align: center;
-}
 footer .social li a { color: #a5a5a5 }
 footer .social li a:hover {
 	color: #e85f37;

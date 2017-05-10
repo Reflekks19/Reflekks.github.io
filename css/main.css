@@ -201,6 +201,7 @@ footer .btn {
     font-family: "Open Sans";
     font-weight: 700;
     letter-spacing: 2px;
+    cursor: pointer;
 }
 footer .social li {
     display: inline;

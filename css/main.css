@@ -25,7 +25,7 @@ a { font-family: "Open Sans", sans-serif }
      -o-transition: all .2s ease-in-out;
         transition: all .2s ease-in-out; 
 }
-/* Created by @flamekaizar */
+
 .top-nav a.logo,
 .logo {
     font-family: 'Open Sans', sans-serif;
@@ -75,7 +75,7 @@ p.p-intro {
 }
 p.p-intro:after {
     content: '';
-    position: absolute;
+    position: center;
     border-style: solid;
     border-width: 9px 9px 9px 0;
     border-color: transparent #FFFFFF;
@@ -120,7 +120,6 @@ img.img-intro {
     position: relative;
 }
 
-/* Created by @flamekaizar */
 .content .post a h1:hover{
 	color: #FF6C40;
 -webkit-transition: all .2s ease-in-out;
@@ -158,7 +157,7 @@ a.read-more {
     -webkit-border-radius: 5px;
     border-radius: 5px;
     color: #E85F37;
-    font-size: 13px; /* Created by @flamekaizar */
+    font-size: 13px;
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;

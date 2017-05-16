@@ -46,7 +46,6 @@ a { font-family: "Open Sans", sans-serif }
     color: #A4A4A4;
 }
 div.intro {
-    width: 100%;
     height: 273px;
     box-sizing: border-box;
     background: url(../head-bg.jpg);

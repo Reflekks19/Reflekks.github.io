@@ -53,6 +53,7 @@ div.intro {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #fff;
+	vertical-align: middle;
 }
 p.p-intro {
     color: #E85F37;

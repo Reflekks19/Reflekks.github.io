@@ -108,6 +108,9 @@ div.container-intro {
 	text-align: center;
 	vertical-align: middle;
 }
+div.container {
+	text-align: center;
+}
 .content { padding-top: 75px }
 .post { margin-bottom: 80px }
 .content .post a { text-decoration: none }
@@ -138,7 +141,6 @@ div.container-intro {
     content: url(../separator.png);
     width: 66px;
     height: 7px;
-    float: left;
     border: none;
 }
 .content .post h1:before {

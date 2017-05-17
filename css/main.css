@@ -143,6 +143,7 @@ div.container {
     width: 66px;
     height: 7px;
     border: none;
+	float: left;
 }
 .content .post h1:before {
     content: url(../separator.png);

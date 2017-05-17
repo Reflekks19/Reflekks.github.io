@@ -53,7 +53,6 @@ div.intro {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #fff;
-	vertical-align: middle;
 }
 p.p-intro {
     color: #E85F37;
@@ -107,9 +106,6 @@ img.img-intro {
 }
 div.container {
 	vertical-align: middle;
-	-webkit-animation: smooth-entry-btn 1s;
-	-moz-animation: smooth-entry-btn 1s;
-	animation: smooth-entry-btn 1s;
 }
 .content { padding-top: 75px }
 .post { margin-bottom: 80px }

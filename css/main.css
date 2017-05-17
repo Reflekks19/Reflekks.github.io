@@ -145,9 +145,9 @@ div.container {
 }
 .content .post h1:before {
     content: url(../separator.png);
-    position: absolute;
     top: -35px;
     left: 1px;
+    
 }
 .in-content { margin-top: 55px }
 a.read-more {

@@ -50,7 +50,7 @@ a { font-family: "Open Sans", sans-serif }
 	height: 273px;
     background: url(../head-bg.jpg);
     background-repeat:no-repeat;
-    background-size:contain;
+    background-size:cover;
 }
 p.p-intro {
     color: #E85F37;

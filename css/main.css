@@ -47,6 +47,7 @@ a { font-family: "Open Sans", sans-serif }
 }
 .intro {
     padding-top: 117px;
+	height: 273px;
     background: url(../head-bg.jpg);
     background-repeat:no-repeat;
     background-size:100% 100%;

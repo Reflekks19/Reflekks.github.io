@@ -194,6 +194,9 @@ a.read-more:hover {
     top: -40px;
     left: 1px;
 }
+form{
+	width: 25%;
+}
 /* Footer */
 footer .btn {
     color: #FFF;

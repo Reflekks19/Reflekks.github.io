@@ -196,6 +196,7 @@ a.read-more:hover {
 }
 form{
 	width: 25%;
+	text-align: center;
 }
 /* Footer */
 footer .btn {

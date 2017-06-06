@@ -107,7 +107,10 @@ img.img-intro {
 	-moz-animation: smooth-entry-btn 1s;
 	animation: smooth-entry-btn 1s;
 }
-.content { padding-top: 75px }
+.content { 
+	padding-top: 75px;
+        width: 50%;
+}
 .post { margin-bottom: 80px }
 .content .post a { text-decoration: none }
 .content .post h1 {
@@ -119,7 +122,6 @@ img.img-intro {
 }
 
 .content .post a h1:hover{
-	color: #FF6C40;
 -webkit-transition: all .2s ease-in-out;
    -moz-transition: all .2s ease-in-out;
     -ms-transition: all .2s ease-in-out;

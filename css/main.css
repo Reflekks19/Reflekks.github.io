@@ -197,12 +197,9 @@ a.read-more:hover {
     left: 1px;
 }
 /* Form */
-div .form {
-	text-align:center;
-}
 form{
-	padding-top: 75px;
-        width: relative;
+	margin: 0 auto;
+	width: 250px;
 }
 /* Footer */
 footer .btn {

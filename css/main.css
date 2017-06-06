@@ -197,8 +197,8 @@ a.read-more:hover {
     left: 1px;
 }
 form{
-	margin: 0 auto; 
-        width: 25%;
+	padding-top: 75px;
+        width: relative;
 }
 /* Footer */
 footer .btn {

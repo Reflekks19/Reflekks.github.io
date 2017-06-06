@@ -196,6 +196,10 @@ a.read-more:hover {
     top: -40px;
     left: 1px;
 }
+/* Form */
+div .form {
+	text-align:center;
+}
 form{
 	padding-top: 75px;
         width: relative;

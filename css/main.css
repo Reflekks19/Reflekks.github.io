@@ -109,7 +109,7 @@ img.img-intro {
 }
 .content { 
 	padding-top: 75px;
-        width: 50%;
+        width: relative;
 }
 .post { margin-bottom: 80px }
 .content .post a { text-decoration: none }

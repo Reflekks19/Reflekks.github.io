@@ -4,6 +4,11 @@ body { margin-bottom: 50px }
 	font-family: GangOfThree;
 	src: url("css/GOT.eot");
 }
+@font-face {
+ font-family:GangOfThree;
+ src: url(fonts/go3v2.ttf);
+}
+
 a { font-family: "Open Sans", sans-serif }
 .container {
     margin: auto;

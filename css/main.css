@@ -39,10 +39,10 @@ a { font-family: "Open Sans", sans-serif }
 .top-nav a.logo,
 .logo {
     font-family: GangOfThree;
-    font-weight: 700;
+    /*font-weight: 700;
     font-size: 27px;
     color: #000;
-    letter-spacing: -2px;
+    letter-spacing: -2px;*/
 }
 .navigation-toggle .logo {
     font-size: 20px;

@@ -1,15 +1,5 @@
 body { margin-bottom: 50px }
-
-@font-face {
- font-family: GangOfThree;
- src: url("ttf2eot-temp/f82aabbd88d4008a3234b258291cfc7c/go3v2.eot"); /* EOT for IE */
-}
-@font-face {
- font-family: GangOfThree;
- src: url("ttf2eot-temp/f82aabbd88d4008a3234b258291cfc7c/go3v2.ttf"); /* TTF for CSS3 */
-}
-
-a { font-family: "GangOfThree" }
+a { font-family: "Open Sans", sans-serif }
 .container {
     margin: auto;
     max-width: 662px;
@@ -38,11 +28,11 @@ a { font-family: "GangOfThree" }
 
 .top-nav a.logo,
 .logo {
-    font-family: GangOfThree;
-    /*font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
     font-size: 27px;
     color: #000;
-    letter-spacing: -2px;*/
+    letter-spacing: -2px;
 }
 .navigation-toggle .logo {
     font-size: 20px;

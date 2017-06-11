@@ -2,7 +2,7 @@ body { margin-bottom: 50px }
 
 @font-face {
 	font-family: GangOfThree;
-	src: url("GOT.eot");
+	src: url("css/GOT.eot");
 }
 a { font-family: "Open Sans", sans-serif }
 .container {

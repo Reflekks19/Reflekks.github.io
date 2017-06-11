@@ -9,7 +9,7 @@ body { margin-bottom: 50px }
  src: url("ttf2eot-temp/f82aabbd88d4008a3234b258291cfc7c/go3v2.ttf"); /* TTF for CSS3 */
 }
 
-a { font-family: "Open Sans", sans-serif }
+a { font-family: "GangOfThree" }
 .container {
     margin: auto;
     max-width: 662px;

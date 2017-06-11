@@ -2,7 +2,7 @@ body { margin-bottom: 50px }
 
 @font-face {
 	font-family: GangOfThree;
-	src: url("go3v2.ttf");
+	src: url('go3v2.ttf');
 }
 a { font-family: "Open Sans", sans-serif }
 .container {

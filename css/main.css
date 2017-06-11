@@ -1,8 +1,8 @@
 body { margin-bottom: 50px }
 
 @font-face {
-	font-family:go3v2import;
-	src:url("go3v2");
+	font-family: GangOfThree;
+	src: url("go3v2.ttf");
 }
 a { font-family: "Open Sans", sans-serif }
 .container {
@@ -33,7 +33,7 @@ a { font-family: "Open Sans", sans-serif }
 
 .top-nav a.logo,
 .logo {
-    font-family: go3v2import;
+    font-family: GangOfThree;
     font-weight: 700;
     font-size: 27px;
     color: #000;
